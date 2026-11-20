@@ -1,4 +1,4 @@
-#include <iostream>
+7775#include <iostream>
 #include <string>
 using namespace std;
 
@@ -7,10 +7,11 @@ using namespace std;
 // IMPLEMENTASI ALGORITMA DALAM C++
 // ========================================
 
-// Nama Lengkap :
-// Kelas        :
-// Nomor Absen  :
+// Nama Lengkap :LOUISHA SETIANTI PRATINI
+// Kelas        :XII.7
+// Nomor Absen  :19
 // Judul Program:
+
 
 int main() {
 
